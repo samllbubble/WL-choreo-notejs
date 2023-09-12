@@ -9,7 +9,7 @@ ENV SUB_NAME="Choreo.dev"
 
 ENV NEZHA_SERVER='data.841013.xyz'
 
-ENV NEZHA_KEY='vPSpjWlSpvkOB8VfuG1'
+ENV NEZHA_KEY='7xHXbvv22sbXHZOOOOO'
 
 ENV VPATH="vls"
 
