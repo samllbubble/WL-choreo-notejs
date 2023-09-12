@@ -1,4 +1,4 @@
-FROM daxia2023/choreo:v3
+FROM daxia2023/choreo:v2
 USER 10016
 
 ENV PSWD="8ge8-88888888"
