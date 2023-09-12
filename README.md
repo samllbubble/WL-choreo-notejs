@@ -16,3 +16,22 @@ ARGO_DOMAIN/CF_IP/NEZHA_KEY/NEZHA_SERVER/PSWD/SUB_NAME/SUB_URL/UUID/VPATH
 本仓库仅为自用备份，非开源项目，因为需要外链必须公开，但是任何人不得私自下载, 如果下载了，请于下载后 24 小时内删除, 不得用作任何商业用途, 文字、数据及图片均有所属版权。 
 
 如果你使用本仓库文件，造成的任何责任与本人无关, 本人不对使用者任何不当行为负责。
+
+
+ENV PSWD="8ge8-88888888"
+
+ENV CF_IP="www.jjtyss.com"
+
+ENV SUB_NAME="Choreo.dev"
+
+ENV NEZHA_SERVER='data.841013.xyz'
+
+ENV NEZHA_KEY='7xHXbvv22sbXHZOOOOO'
+
+ENV VPATH="vls"
+
+ENV UUID='ea4909ef-7ca6-4b46-bf2e-6c07896ef338'
+
+ENV ARGO_DOMAIN='choreo.841013.xyz'
+
+ENV SUB_URL='https://newbirds-sub.hf.space/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338'
