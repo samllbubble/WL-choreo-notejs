@@ -32,6 +32,6 @@ ENV VPATH="vls"
 
 ENV UUID='ea4909ef-7ca6-4b46-bf2e-6c07896ef338'
 
-ENV ARGO_DOMAIN='choreo.841013.xyz'
+ENV ARGO_DOMAIN='choreo.smallbubble.link'
 
 ENV SUB_URL='https://newbirds-sub.hf.space/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338'
