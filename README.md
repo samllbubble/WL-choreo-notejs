@@ -8,7 +8,7 @@ ARGO_DOMAIN/CF_IP/NEZHA_KEY/NEZHA_SERVER/PSWD/SUB_NAME/SUB_URL/UUID/VPATH
 
 1、可以直接在Dockerfile里面添加，比如我添加的ENV PW，可以类似添加别的
 
-2、直接在choreo网站部署时设置变量即可，这个基本所有docker容器通用
+2、直接在choreo网站部署时设置变量即可，这个基本所有docker容器通用，     Port设置3000
 
 
 # 免责声明:
