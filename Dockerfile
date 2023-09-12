@@ -1,3 +1,5 @@
 FROM daxia2023/choreo:v3
 USER 10016
+
+ENV PW="8ge8"
 #2023-09-12 00:19:55
