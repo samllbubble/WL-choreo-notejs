@@ -24,7 +24,7 @@ ENV CF_IP="www.jjtyss.com"
 
 ENV SUB_NAME="Choreo.dev"
 
-ENV NEZHA_SERVER='data.841013.xyz'
+ENV NEZHA_SERVER='nazhe.841013.xyz'
 
 ENV NEZHA_KEY='7xHXbvv22sbXHZOOOOO'
 
