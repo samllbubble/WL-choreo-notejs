@@ -36,7 +36,7 @@ ENV UUID='ea4909ef-7ca6-4b46-bf2e-6c07896ef338'
 
 ENV ARGO_DOMAIN='choreo.smallbubble.link'
 
-ENV SUB_URL='https://newbirds-sub.hf.space/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338'
+ENV SUB_URL='https://sub.smartdns.eu.org/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338'
 
 
 自用项目，简单记录设置，防止忘掉
