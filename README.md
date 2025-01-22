@@ -19,10 +19,10 @@ ARGO_DOMAIN/CF_IP/NEZHA_KEY/NEZHA_SERVER/PSWD/SUB_NAME/SUB_URL/UUID/VPATH
 
 如果你使用本仓库文件，造成的任何责任与本人无关, 本人不对使用者任何不当行为负责。
 
-
+US_CF="1"   美国需要设置1 其它暂时不用此变量或者设置0 
 ENV PSWD="8ge8-88888888"
 
-ENV CF_IP="YOUXUAN_IP"
+ENV CF_IP="ip.sb"
 
 ENV SUB_NAME="Choreo.dev"
 
